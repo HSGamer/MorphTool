@@ -1,0 +1,5 @@
+name: MorphTool
+version: '${project.version}'
+main: me.hsgamer.morphtool.MorphTool
+api-version: 1.17
+authors: [ HSGamer ]
